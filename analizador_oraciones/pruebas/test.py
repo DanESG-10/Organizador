@@ -12,10 +12,9 @@ from core.servicios.generar_frases import GeneradorOraciones
 def pruebas_rapidas():
     """Pruebas rápidas con GPT-2 para casos ambiguos (estilo original)"""
     casos = [
-        "la ciudad está dañada",
-        "Julián universidad estudia la en",
-        "ratón el a gato persigue negro un",
-        "ratón un a gato persigue negro el",
+        "ganó rojo el carrera la coche",
+        "elegante un modista vestido la cose",
+        "perro no ese es mío",
     ]
     """, ""ganó rojo el carrera la coche",
         "ratón el a gato persigue negro un",

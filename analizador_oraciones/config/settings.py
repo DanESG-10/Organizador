@@ -4,7 +4,7 @@ Configuración centralizada del proyecto.
 
 from typing import Set
 
-import os
+# import os
 
 
 class Settings:
@@ -136,6 +136,9 @@ class Settings:
         "anciano": {"pos": "NOUN", "gen": "Masc", "num": "Sing"},
         "delincuente": {"pos": "NOUN", "gen": "Masc", "num": "Sing"},
         "español": {"pos": "NOUN", "gen": "Masc", "num": "Sing"},
+        "autobus": {"pos": "NOUN", "gen": "Masc", "num": "Sing"},
+        "bus": {"pos": "NOUN", "gen": "Masc", "num": "Sing"},
+        "vida": {"pos": "NOUN", "gen": "Fem", "num": "Sing"},
         # DET y VERB
         "mi": {"pos": "DET", "num": "Sing"},
         "este": {"pos": "DET", "gen": "Masc", "num": "Sing"},
