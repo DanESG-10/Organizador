@@ -1,0 +1,57 @@
+﻿ID;Salida del sistema;Correcto (0/1);Tipo de error;Usó corrección
+1;el niño come una manzana;1;;No
+2;Valentina estudiaba la lección;1;;No
+3;yo saqué la basura;1;;No
+4;Emily lee un libro;1;;No
+5;la niña jugó en el parque;1;;No
+6;nosotros jugaremos en el parque;1;;No
+7;Julián compró una computadora;1;;No
+8;el coche rojo ganó la carrera;1;;Sí
+9;el gato persigue a un ratón negro;0;Error;Sí
+10;las flores amarillas adornan el jardín;1;;No
+11;el hombre cansado duerme en su casa;1;;No
+12;los estudiantes rebeldes dañaron la puerta;1;;Sí
+13;la lluvia incesante arruinó el paseo;1;;No
+14;su vecino vendió el equipo ruidoso;0;Error;No
+15;el estudiante resuelve un problema complejo;1;;No
+16;una mujer preciosa baila la canción;0;Error;No
+17;mi abuela hizo sopa caliente;1;;Sí
+18;el perro mordió la cama nueva;1;;Sí
+19;una chica dibuja la casa grande;0;Error;No
+20;el carpintero reparó la mesa dañada;1;;Sí
+21;la modista cose un vestido elegante;1;;Sí
+22;la carta fue escrita por Luciano;1;;No
+23;las leyes fueron aprobadas por el congreso;1;;No
+24;la motocicleta fue reparada por el mecánico;1;;Sí
+25;los exploradores han encontrado el tesoro;1;;No
+26;Daniel ha visto la película;1;;No
+27;la puerta fue cerrada con llave;1;;Sí
+28;ella ha terminado la tarea;1;;No
+29;la casa es de Carlos;1;;No
+30;el café está caliente;1;;No
+31;tus primos parecen cansados;1;;Sí
+32;el televisor es grande;1;;No
+33;los zapatos estaban en la mesa;1;;No
+34;el computador parecía nuevo;1;;No
+35;yo era el capitán;1;;No
+36;televisión estamos viendo nosotros;0;Error;No
+37;ella está escribiendo un libro;1;;No
+38;él va aprendiendo la lección;1;;No
+39;el conductor maneja hablando por teléfono;1;;Sí
+40;los niños están trepando el árbol;1;;No
+41;los estudiantes están realizando la tarea;1;;No
+42;el perro está persiguiendo la pelota;1;;Sí
+43;su joven no trajo el cuaderno;0;Error;Sí
+44;el coronel no recibió el mensaje;1;;No
+45;la tienda no abre los domingos;1;;No
+46;la policía no atrapó a los ladrones;1;;No
+47;ese perro no es mío;1;;Sí
+48;yo no fui a la escuela;1;;No
+49;verduras no come él;0;Error;No
+50;la empresa quiere mejorar el servicio;1;;No
+51;la gente necesita comprar comida;1;;No
+52;el grupo intenta resolver el problema;1;;No
+53;ellos pueden usar la fotocopiadora;1;;No
+54;el equipo intenta ganar el partido;1;;No
+55;mi amigo suele hablar de política;1;;Sí
+56;ustedes pueden visitar el museo;1;;No
